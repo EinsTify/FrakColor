@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FrakColor">
+    <output-path>$USER_HOME$/Desktop/voidrptest/plugins</output-path>
+    <root id="archive" name="FrakColor.jar">
+      <element id="module-output" name="FrakColor" />
+    </root>
+  </artifact>
+</component>
